@@ -7,7 +7,6 @@
 
 Generate high-quality SVG graphics from text descriptions and images using OmniSVG in ComfyUI.
 
-![ComfyUI OmniSVG Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=ComfyUI+OmniSVG+Demo)
 
 ## 🎯 Features
 
