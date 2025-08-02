@@ -1,0 +1,9 @@
+torch>=2.3.0
+transformers>=4.41.2
+qwen-vl-utils
+cairosvg>=2.7.0
+pillow>=9.0.0
+numpy>=1.21.0
+pyyaml>=6.0
+huggingface-hub>=0.16.0
+accelerate
